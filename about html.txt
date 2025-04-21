@@ -1,0 +1,27 @@
+<about html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>About – We Got Books!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>We Got Books!</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>About Us</h2>
+    <p>We Got Books! is a digital-only bookstore offering helpful study guides, productivity planners, and self-improvement resources—all in downloadable format.</p>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 We Got Books!</p>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<index html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>We Got Books!</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>We Got Books!</h1>
+    <p>Your one-stop shop for digital eBooks 📚</p>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="contact.html">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <h2>Popular eBooks</h2>
+    <div class="product-grid">
+      <div class="product">
+        <img src="images/cover1.jpg" alt="Book 1">
+        <h3>Master Study Planner</h3>
+        <a href="downloads/ebook1.pdf" download>Download</a>
+      </div>
+      <div class="product">
+        <img src="images/cover2.jpg" alt="Book 2">
+        <h3>Success Habits Guide</h3>
+        <a href="downloads/ebook2.pdf" download>Download</a>
+      </div>
+      <div class="product">
+        <img src="images/cover3.jpg" alt="Book 3">
+        <h3>College Survival Kit</h3>
+        <a href="downloads/ebook3.pdf" download>Download</a>
+      </div>
+    </div>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 We Got Books!</p>
+  </footer>
+</body>
+</html>
